@@ -100,7 +100,7 @@ My path into software runs through the healthcare system itself: health insuranc
 <br/><br/>
 
 <a href="https://github.com/gbpatilan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gbpatilan&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=14b8a6&line=0d9488&point=f2f2f2&area=true&height=300" width="100%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/0d9488/gbpatilan" width="100%" alt="Contribution Chart"/>
 </a>
 
 </div>
